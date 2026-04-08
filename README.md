@@ -7,7 +7,7 @@ Business analytics projects developed during my Master's in Business Analytics a
 ## Projects
 
 ### 1. 🏦 Credit Risk Classification – LendingClub
-**`LendingClub.ipynb`**
+**`Lending Club.ipynb`**
 
 Predicting loan default probability on 1.4M+ records (2007–2018) using four classification models. Random Forest achieved 84% accuracy, validated via 5-fold cross-validation. Interest rate was identified as the strongest default predictor.
 
@@ -16,7 +16,7 @@ Predicting loan default probability on 1.4M+ records (2007–2018) using four cl
 ---
 
 ### 2. 🛒 Market Basket Analysis – Pollolandia / Grupo Gamer
-**`Proyecto_final_grupo_gamer.ipynb`**
+**`Market Basket Analysis.ipynb`**
 
 Association rule mining on 33,833 real point-of-sale transactions from a Pollolandia franchise restaurant in Honduras (Q4). Applied the Apriori algorithm to identify product affinity pairs and a Chi-square test to determine complementarity vs. substitutability of key menu items.
 
