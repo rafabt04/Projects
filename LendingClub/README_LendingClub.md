@@ -1,8 +1,20 @@
-# Credit Risk Classification – LendingClub Loan Default Prediction
+# Credit Risk Classification – LendingClub (2007–2018)
+### Harvard Business School Case Series · Datar & Bowler (2018)
+
+> *Based on the Harvard Business School case series "LendingClub (A/B/C): Data Analytic Thinking, Decision Trees & Random Forests, and Gradient Boosting & Payoff Matrix" by Srikant M. Datar and Caitlin N. Bowler. HBS Case 119-020, August 2018.*
+>
+> Cases available at: https://www.hbs.edu/faculty/Pages/item.aspx?num=54844
+
+---
 
 ## Business Context
 
 LendingClub operates a peer-to-peer (P2P) lending platform connecting borrowers and lenders, eliminating traditional bank intermediaries. While attractive for investors seeking interest income and borrowers seeking quick liquidity, the model carries significant credit risk.
+
+This notebook follows the full three-part HBS case series:
+- **Case A** — Data Analytic Thinking: understanding the data, preparation, cross-validation
+- **Case B** — Decision Trees & Random Forests
+- **Case C** — Gradient Boosting (XGBoost) & Payoff Matrix
 
 This project evaluates whether machine learning models can reliably predict loan default probability, supporting smarter investment and risk management decisions on the platform.
 
