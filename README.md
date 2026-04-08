@@ -7,7 +7,7 @@ Business analytics and machine learning projects developed during my Master's in
 ## Projects
 
 ### 1. 🏦 Credit Risk Classification – LendingClub *(HBS Case Series)*
-**`LendingClub/LendingClub.ipynb`**
+**`LendingClub/Lending Club.ipynb`**
 
 Implementation of the full Harvard Business School LendingClub case series (A/B/C) by Srikant M. Datar & Caitlin N. Bowler (HBS Case 119-020, 2018). Predicting loan default on 1.4M+ records using four classification models. Random Forest achieved 84% accuracy, validated via 5-fold cross-validation. Interest rate was identified as the strongest default predictor.
 
@@ -25,7 +25,7 @@ Binary classification on 307,511 loan applications (122 features) for a non-bank
 ---
 
 ### 3. 🛒 Market Basket Analysis – Pollolandia / Grupo Gamer
-**`GrupoGamer/Proyecto_final_grupo_gamer.ipynb`**
+**`GrupoGamer/Market Basket Analysis.ipynb`**
 
 Association rule mining on 33,833 **real** point-of-sale transactions from a Pollolandia franchise restaurant in Honduras (Q4). Applied the Apriori algorithm to identify product affinity pairs and a Chi-square test to determine complementarity vs. substitutability of key menu items.
 
