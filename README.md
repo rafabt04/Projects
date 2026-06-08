@@ -53,7 +53,7 @@ Binary classification model to predict which Allianz policyholders are likely to
 
 ## About
 
-**Rafael Bravo** · Business Analytics & Operations Manager
+**Rafael Bravo** · Analytics Professional
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-rafabt04-blue?logo=linkedin)](https://www.linkedin.com/in/rafabt04)
 
